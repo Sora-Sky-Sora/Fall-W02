@@ -1,7 +1,7 @@
 ---
 title: "W02-Reflection Essay-Introduction to Positron"
 author: "Sora Hosoda"
-date: '`r format(Sys.time())`'
+date: "September 10, 2026"
 format: 
   html: 
     toc: true
@@ -60,10 +60,12 @@ execute:
 ### Note that although both GitHub Pages and the GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
 :::
 
-<https://sora-sky-sora.github.io/intro-positron-reflection/Hosoda-Sora-W01-Reflection-Intro-Positron.html>
-
 ## Appendix
 
 ### GitHub Pages
 
+<https://sora-sky-sora.github.io/Fall-W02/Sora,Hosoda-W02-Reflection%20Essay-Intro-positron.html>
+
 ### GitHub Repository
+
+<https://github.com/Sora-Sky-Sora/Fall-W02>
